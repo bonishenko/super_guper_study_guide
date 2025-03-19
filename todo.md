@@ -17,7 +17,7 @@
   - [ ] Process "Math 099 Lecture Notes - Module 5 [corresponding to textbook sections 1.9  1.10].pdf"
     - [x] Identify Topic and Section
     - [x] Extract Questions and Answers
-    - [ ] Create Question Variations and Format Flashcards
+    - [x] Create Question Variations and Format Flashcards
     - [ ] Update processed_pdfs.txt
   - [ ] Process "Math 099 Lecture Notes - Module 6 [corresponding to textbook sections 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7].pdf"
     - [ ] Identify Topic and Section

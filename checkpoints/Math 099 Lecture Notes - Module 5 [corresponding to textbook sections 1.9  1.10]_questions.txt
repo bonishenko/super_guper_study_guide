@@ -1,0 +1,32 @@
+# Questions Extracted from Math 099 Lecture Notes - Module 5
+
+## Question 1
+Section 5.1: 2 2 2 222
+2 2 1 2 1
+13 2 2 2
+1 5 2 2
+2 3 2 2 5 0 25 5
+2 1 2 5 1 7 50−
+−
+= − + − = − − + − = + = =
+= − + − = − + − − = + =
+
+## Question 2
+Section 5.1: () ()
+()()1 2 1 2 8 6 3 5 2 8142 2 2 2 2 2
+14++ + − − + − −     = = = = −        
+
+## Question 3
+Section 5.1: 2
+2 20 0 4 2
+4 4 4 1 2 4
+2 2 1
+24 16 8 4 8 4 2 2
+2 2 2−
+= = − +
+− −  − − −  − = =
+ −  = = = =quadratic
+
+## Question 4
+Section 5.2: ()()()()1 1 2 2
+21

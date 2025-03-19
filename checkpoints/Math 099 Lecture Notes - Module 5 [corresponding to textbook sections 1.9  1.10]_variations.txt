@@ -1,0 +1,13 @@
+# Question Variations for Math 099 Lecture Notes - Module 5
+
+## Variation 1 (Based on Question 1)
+Section 5.1: Find the distance between points A(1, 4) and P(6, 8), and the distance between points B(-2, 3) and P(6, 8). Determine which point (A or B) is closer to P.
+
+## Variation 2 (Based on Question 2)
+Section 5.1: Find the midpoint M of the line segment connecting points C(-3, 5) and D(7, -1). Then verify that M is equidistant from both C and D by calculating the distances.
+
+## Variation 3 (Based on Question 3)
+Section 5.1: For the quadratic equation 3x² - 12x + 9 = 0, find the x-intercepts using the quadratic formula. Then verify your answer by factoring the equation.
+
+## Variation 4 (Based on Question 4)
+Section 5.2: Find the slope of the line passing through the points C(-2, 6) and D(4, -3). Then write the equation of this line in slope-intercept form (y = mx + b).
