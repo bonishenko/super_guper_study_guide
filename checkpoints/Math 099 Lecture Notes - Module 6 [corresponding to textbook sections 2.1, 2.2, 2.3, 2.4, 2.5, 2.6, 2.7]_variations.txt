@@ -1,0 +1,47 @@
+# Question Variations for Math 099 Lecture Notes - Module 6
+
+## Variation 1 (Based on Question 1)
+Section 6.1: 
+Let g(x) be a piecewise function defined as:
+g(x) = {
+  x² + 3, if x < -1
+  2x - 4, if -1 ≤ x < 3
+  √x, if x ≥ 3
+}
+Evaluate the following:
+(i) g(-2)  (ii) g(-1)  (iii) g(0)  (iv) g(3)  (v) g(9)
+
+## Variation 2 (Based on Question 2)
+Section 6.1: 
+Find the difference quotient (f(x+h) - f(x))/h if f(x) = 3x² - 2x + 5. Then determine what this expression approaches as h approaches 0.
+
+## Variation 3 (Based on Question 3)
+Section 6.2:
+Sketch the graph of the piecewise function f(x) = {
+  |x|, if x < 0
+  sin(πx/2), if 0 ≤ x ≤ 2
+  4-x, if x > 2
+}
+Identify any discontinuities in the function.
+
+## Variation 4 (Based on Question 4)
+Section 6.2:
+For the function f(x) = x³ - 6x² + 9x + 1:
+(i) Find the critical points by determining where f'(x) = 0
+(ii) Determine the intervals where f(x) is increasing or decreasing
+(iii) Identify all local maximum and minimum points
+
+## Variation 5 (Based on Question 5)
+Section 6.5:
+Let f(x) = 3x² - 1 and g(x) = √(x+4)
+Determine the following compositions and their domains:
+(i) (f∘g)(x)  (ii) (g∘f)(x)  (iii) (f∘f)(x)  (iv) (g∘g)(x)
+
+## Variation 6 (Based on Question 6)
+Section 6.5:
+Let f(x) = 1/(x-2) and g(x) = x² + 3
+Find the following:
+(i) (f∘g)(x) and its domain
+(ii) (g∘f)(x) and its domain
+(iii) The value of (f∘g)(1)
+(iv) The value of (g∘f)(0)
