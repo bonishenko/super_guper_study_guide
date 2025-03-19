@@ -1,0 +1,84 @@
+# Extracted Questions and Answers from Math 099 Lecture Notes - Module 5
+
+## Question 1
+Section 5.1: 2 2 2 222
+2 2 1 2 1
+13 2 2 2
+1 5 2 2
+2 3 2 2 5 0 25 5
+2 1 2 5 1 7 50−
+−
+= − + − = − − + − = + = =
+= − + − = − + − − = + =
+
+## Answer 1
+Solution:
+Let  denote the distance between ,  and , , and let 
+denote the distance between ,  and , .
+()
+()
+Since d A P d
+BP
+d x x y y
+d x x y y
+d2 5 50=  , then  is farther than  from .d B A P
+
+## Question 2
+Section 5.1: () ()
+()()1 2 1 2 8 6 3 5 2 8142 2 2 2 2 2
+14++ + − − + − −     = = = = −        
+
+## Answer 2
+Solution:
+( ) ( ), , , , , .
+Thus, the point , ,  is equidistant to  an d  on the line 
+segment connecting  and .x x y yM x y
+x y A B
+AB
+
+## Question 3
+Section 5.1: 2
+2 20 0 4 2
+4 4 4 1 2 4
+2 2 1
+24 16 8 4 8 4 2 2
+2 2 2−
+= = − +
+− −  − − −  − = =
+ −  = = = =quadratic
+
+## Answer 3
+Solution:
+intercept:
+set :  
+( ) ( ) ( )( ) ()x
+y x x
+b b acxa
+x() 22
+2
+()
+()
+()
+()
+()
+()2
+222
+0 0 4 0 2 2
+42
+1 7 1 7
+0 2 0 2
+1 1 1 1
+
+## Question 4
+Section 5.2: ()()()()1 1 2 2
+21
+
+## Answer 4
+Solution:
+Let 5, 2 ,  and 7, 3 , .
+Then the slope of the line containing po ints  &  is
+3 ( 2) 3 2 1
+7 5 2 2A x y B x y
+AB
+yymxx− = − =
+−− − − − + −= = = =−−
