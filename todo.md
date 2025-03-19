@@ -15,7 +15,7 @@
 - [x] Get list of PDFs in input_pdfs directory
 - [ ] Process each PDF:
   - [ ] Process "Math 099 Lecture Notes - Module 5 [corresponding to textbook sections 1.9  1.10].pdf"
-    - [ ] Identify Topic and Section
+    - [x] Identify Topic and Section
     - [ ] Extract Questions and Answers
     - [ ] Create Question Variations and Format Flashcards
     - [ ] Update processed_pdfs.txt
