@@ -1,0 +1,4 @@
+Topic Name: Functions and Graphs
+Section Number: Module 6 (corresponding to textbook sections 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7)
+
+Summary: This checkpoint identifies the topic and section information from the second PDF. The document covers Module 6 which focuses on Functions and Graphs. The module corresponds to textbook sections 2.1 through 2.7. The first section (§6.1) specifically covers "Functions" which introduces the concept of functions, including domain, range, independent and dependent variables, and function notation.
