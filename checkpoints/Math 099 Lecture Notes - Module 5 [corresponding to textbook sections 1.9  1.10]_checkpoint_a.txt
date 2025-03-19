@@ -1,0 +1,4 @@
+Topic Name: The Coordinate Plane, Lines, and Circles
+Section Number: Module 5 (corresponding to textbook sections 1.9 and 1.10)
+
+Summary: This checkpoint identifies the topic and section information from the first PDF. The document covers Module 5 which focuses on the coordinate plane, lines, and circles. The module corresponds to textbook sections 1.9 and 1.10. The first section (§5.1) specifically covers "The Coordinate Plane" which introduces the coordinate system, ordered pairs, axes, origin, and the four quadrants of the coordinate plane.
