@@ -1,5 +1,4 @@
-"Section: Module 5, Section 5.1
-Question: 2 2 2 222
+"2 2 2 222
 2 2 1 2 1
 13 2 2 2
 1 5 2 2
@@ -7,8 +6,7 @@ Question: 2 2 2 222
 2 1 2 5 1 7 50−
 −
 = − + − = − − + − = + = =
-= − + − = − + − − = + =","1
-Solution:
+= − + − = − + − − = + =","Solution:
 Let  denote the distance between ,  and , , and let 
 denote the distance between ,  and , .
 ()
@@ -19,8 +17,7 @@ d x x y y
 d x x y y
 d2 5 50=  , then  is farther than  from .d B A P"
 "Section: Module 5, Section 5.1
-Question: Find the distance between points A(1, 4) and P(6, 8), and the distance between points B(-2, 3) and P(6, 8). Determine which point (A or B) is closer to P.","1
-Solution:
+Question: Find the distance between points A(1, 4) and P(6, 8), and the distance between points B(-2, 3) and P(6, 8). Determine which point (A or B) is closer to P.","Solution:
 To find the distance between two points, we use the distance formula: d = √[(x₂-x₁)² + (y₂-y₁)²]
 
 For distance between A(1, 4) and P(6, 8):
@@ -38,19 +35,16 @@ d(B,P) = √[(6-(-2))² + (8-3)²]
        ≈ 9.43
 
 Since d(A,P) ≈ 6.40 and d(B,P) ≈ 9.43, point A is closer to point P."
-"Section: Module 5, Section 5.1
-Question: () ()
+"() ()
 ()()1 2 1 2 8 6 3 5 2 8142 2 2 2 2 2
-14++ + − − + − −     = = = = −","2
-Solution:
+14++ + − − + − −     = = = = −","Solution:
 ( ) ( ), , , , , .
 Thus, the point , ,  is equidistant to  an d  on the line 
 segment connecting  and .x x y yM x y
 x y A B
 AB"
 "Section: Module 5, Section 5.1
-Question: Find the midpoint M of the line segment connecting points C(-3, 5) and D(7, -1). Then verify that M is equidistant from both C and D by calculating the distances.","2
-Solution:
+Question: Find the midpoint M of the line segment connecting points C(-3, 5) and D(7, -1). Then verify that M is equidistant from both C and D by calculating the distances.","Solution:
 To find the midpoint of a line segment connecting two points (x₁, y₁) and (x₂, y₂), we use the formula:
 M = ((x₁+x₂)/2, (y₁+y₂)/2)
 
@@ -73,8 +67,7 @@ d(M,D) = √[(2-7)² + (2-(-1))²]
        ≈ 5.83
 
 Since d(M,C) = d(M,D), the midpoint M is equidistant from both C and D."
-"Section: Module 5, Section 5.1
-Question: 2
+"2
 2 20 0 4 2
 4 4 4 1 2 4
 2 2 1
@@ -82,8 +75,7 @@ Question: 2
 2 2 2−
 = = − +
 − −  − − −  − = =
- −  = = = =quadratic","3
-Solution:
+ −  = = = =quadratic","Solution:
 intercept:
 set :  
 ( ) ( ) ( )( ) ()x
@@ -104,8 +96,7 @@ x() 22
 0 2 0 2
 1 1 1 1"
 "Section: Module 5, Section 5.1
-Question: For the quadratic equation 3x² - 12x + 9 = 0, find the x-intercepts using the quadratic formula. Then verify your answer by factoring the equation.","3
-Solution:
+Question: For the quadratic equation 3x² - 12x + 9 = 0, find the x-intercepts using the quadratic formula. Then verify your answer by factoring the equation.","Solution:
 For the quadratic equation 3x² - 12x + 9 = 0, we can use the quadratic formula:
 x = (-b ± √(b² - 4ac)) / 2a
 
@@ -125,10 +116,8 @@ To verify by factoring:
 3(x - 3)(x - 1) = 0
 
 Therefore, x = 3 or x = 1, which matches our answer from the quadratic formula."
-"Section: Module 5, Section 5.2
-Question: ()()()()1 1 2 2
-21","4
-Solution:
+"()()()()1 1 2 2
+21","Solution:
 Let 5, 2 ,  and 7, 3 , .
 Then the slope of the line containing po ints  &  is
 3 ( 2) 3 2 1
@@ -137,8 +126,7 @@ AB
 yymxx− = − =
 −− − − − + −= = = =−−"
 "Section: Module 5, Section 5.2
-Question: Find the slope of the line passing through the points C(-2, 6) and D(4, -3). Then write the equation of this line in slope-intercept form (y = mx + b).","4
-Solution:
+Question: Find the slope of the line passing through the points C(-2, 6) and D(4, -3). Then write the equation of this line in slope-intercept form (y = mx + b).","Solution:
 To find the slope of a line passing through two points (x₁, y₁) and (x₂, y₂), we use the formula:
 m = (y₂ - y₁) / (x₂ - x₁)
 
